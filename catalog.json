@@ -95,5 +95,15 @@
   ],
   "platform": "ROXENZ",
   "schema": 1,
-  "updatedAt": "2026-09-18T20:15:14.933Z"
+  "updatedAt": "2026-09-18T22:16:36.214Z",
+  "clientRelease": {
+    "version": "2.2.0",
+    "url": "https://github.com/roxenzzz/roxenz-library/releases/download/roxenz-client-2.2.0-1789769632867/ROXENZ-Setup.exe",
+    "sha256": "8cd4f588662ec3ee939f120080a8b33b7ebd2d670afdabda43d28c030854cce2",
+    "sizeBytes": 146005924,
+    "publishedAt": "2026-09-18T22:16:35.867Z",
+    "notes": "yeni sürüm",
+    "mandatory": true,
+    "releaseUrl": "https://github.com/roxenzzz/roxenz-library/releases/tag/roxenz-client-2.2.0-1789769632867"
+  }
 }
