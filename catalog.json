@@ -67,19 +67,19 @@
       "type": "program",
       "channels": {
         "stable": {
-          "currentVersion": "1.0.0",
+          "currentVersion": "1.0.1",
           "executable": "Roxtotal.exe",
-          "manifestUrl": "https://github.com/roxenzzz/roxenz-library/releases/download/roxenz-roxtotalsecurity-stable-1.0.0-b1-1789762452153/manifest.json",
+          "manifestUrl": "https://github.com/roxenzzz/roxenz-library/releases/download/roxenz-roxtotalsecurity-stable-1.0.1-b2-1789762513265/manifest.json",
           "release": {
-            "version": "1.0.0",
-            "buildNumber": 1,
+            "version": "1.0.1",
+            "buildNumber": 2,
             "notes": "",
             "sizeBytes": 26037438,
             "chunkCount": 13,
-            "newChunkCount": 13,
-            "newUploadBytes": 25667368,
-            "publishedAt": "2026-09-18T20:14:44.459Z",
-            "releaseUrl": "https://github.com/roxenzzz/roxenz-library/releases/tag/roxenz-roxtotalsecurity-stable-1.0.0-b1-1789762452153"
+            "newChunkCount": 0,
+            "newUploadBytes": 0,
+            "publishedAt": "2026-09-18T20:15:14.705Z",
+            "releaseUrl": "https://github.com/roxenzzz/roxenz-library/releases/tag/roxenz-roxtotalsecurity-stable-1.0.1-b2-1789762513265"
           }
         }
       },
@@ -95,5 +95,5 @@
   ],
   "platform": "ROXENZ",
   "schema": 1,
-  "updatedAt": "2026-09-18T20:14:44.801Z"
+  "updatedAt": "2026-09-18T20:15:14.933Z"
 }
