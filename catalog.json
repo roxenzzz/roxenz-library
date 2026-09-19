@@ -119,15 +119,15 @@
   ],
   "platform": "ROXENZ",
   "schema": 1,
-  "updatedAt": "2026-09-19T11:46:23.961Z",
+  "updatedAt": "2026-09-19T13:02:59.554Z",
   "clientRelease": {
-    "version": "2.2.10",
-    "url": "https://github.com/roxenzzz/roxenz-library/releases/download/roxenz-client-2.2.10-1789812691694/ROXENZ-Setup.exe",
-    "sha256": "b6d5a0f44785f3a0ce5c4e4e6109a851c78a736e236077bfe8b2ee89866c15ac",
-    "sizeBytes": 146211889,
-    "publishedAt": "2026-09-19T10:14:09.901Z",
-    "notes": "2.2.10",
+    "version": "2.3.0",
+    "url": "https://github.com/roxenzzz/roxenz-library/releases/download/roxenz-client-2.3.0-1789822819703/ROXENZ-Setup.exe",
+    "sha256": "96e2d670675c7588e91421122077510df3f227dfdd1ea81c181d10532677f209",
+    "sizeBytes": 146051423,
+    "publishedAt": "2026-09-19T13:02:59.227Z",
+    "notes": "2.3.0",
     "mandatory": true,
-    "releaseUrl": "https://github.com/roxenzzz/roxenz-library/releases/tag/roxenz-client-2.2.10-1789812691694"
+    "releaseUrl": "https://github.com/roxenzzz/roxenz-library/releases/tag/roxenz-client-2.3.0-1789822819703"
   }
 }
