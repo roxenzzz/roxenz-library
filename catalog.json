@@ -78,7 +78,7 @@
       "cloudSavePaths": [],
       "achievements": [],
       "maintenance": {
-        "enabled": true,
+        "enabled": false,
         "message": "Sunucular Şu an bakımda",
         "until": "2026-09-19T01:40:00.000Z"
       }
@@ -117,7 +117,7 @@
   ],
   "platform": "ROXENZ",
   "schema": 1,
-  "updatedAt": "2026-09-19T01:38:56.506Z",
+  "updatedAt": "2026-09-19T01:41:33.335Z",
   "clientRelease": {
     "version": "2.2.3",
     "url": "https://github.com/roxenzzz/roxenz-library/releases/download/roxenz-client-2.2.3-1789779926356/ROXENZ-Setup.exe",
