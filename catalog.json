@@ -37,10 +37,10 @@
       "cloudSavePaths": [],
       "achievements": [],
       "maintenance": {
-        "enabled": false,
-        "message": "",
-        "until": "",
-        "changedAt": "2026-09-19T09:55:20.606Z"
+        "enabled": true,
+        "message": "31",
+        "until": "2026-09-19T10:36:00.000Z",
+        "changedAt": "2026-09-19T10:31:39.528Z"
       }
     },
     {
@@ -119,7 +119,7 @@
   ],
   "platform": "ROXENZ",
   "schema": 1,
-  "updatedAt": "2026-09-19T10:14:10.238Z",
+  "updatedAt": "2026-09-19T10:31:39.528Z",
   "clientRelease": {
     "version": "2.2.10",
     "url": "https://github.com/roxenzzz/roxenz-library/releases/download/roxenz-client-2.2.10-1789812691694/ROXENZ-Setup.exe",
