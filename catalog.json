@@ -40,7 +40,7 @@
         "enabled": true,
         "message": "Sunucular şu an bakımda",
         "until": "2026-09-19T09:00:00.000Z",
-        "changedAt": "2026-09-19T01:56:32.760Z"
+        "changedAt": "2026-09-19T01:57:36.752Z"
       }
     },
     {
@@ -118,7 +118,7 @@
   ],
   "platform": "ROXENZ",
   "schema": 1,
-  "updatedAt": "2026-09-19T01:57:14.375Z",
+  "updatedAt": "2026-09-19T01:57:36.752Z",
   "clientRelease": {
     "version": "2.2.5",
     "url": "https://github.com/roxenzzz/roxenz-library/releases/download/roxenz-client-2.2.5-1789782710246/ROXENZ-Setup.exe",
