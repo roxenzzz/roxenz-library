@@ -6,19 +6,19 @@
       "slug": "lethe-study-bar",
       "channels": {
         "stable": {
-          "currentVersion": "1.0.1",
+          "currentVersion": "1.0.2",
           "executable": "payload/Lethe Study Bar.exe",
-          "manifestUrl": "https://github.com/roxenzzz/roxenz-library/releases/download/roxenz-lethe-study-bar-stable-1.0.1-b2-1789730976968/manifest.json",
+          "manifestUrl": "https://github.com/roxenzzz/roxenz-library/releases/download/roxenz-lethe-study-bar-stable-1.0.2-b3-1789780578404/manifest.json",
           "release": {
-            "version": "1.0.1",
-            "buildNumber": 2,
+            "version": "1.0.2",
+            "buildNumber": 3,
             "notes": "",
-            "sizeBytes": 61612874,
+            "sizeBytes": 61614770,
             "chunkCount": 268,
-            "newChunkCount": 0,
-            "newUploadBytes": 0,
-            "publishedAt": "2026-09-18T11:29:38.601Z",
-            "releaseUrl": "https://github.com/roxenzzz/roxenz-library/releases/tag/roxenz-lethe-study-bar-stable-1.0.1-b2-1789730976968"
+            "newChunkCount": 3,
+            "newUploadBytes": 128579,
+            "publishedAt": "2026-09-19T01:16:20.481Z",
+            "releaseUrl": "https://github.com/roxenzzz/roxenz-library/releases/tag/roxenz-lethe-study-bar-stable-1.0.2-b3-1789780578404"
           }
         }
       },
@@ -29,7 +29,18 @@
       "coverUrl": "https://github.com/roxenzzz/roxenz-library/releases/download/roxenz-lethe-study-bar-stable-1.0.0-b1-1789730873753/cover-203a43061ff7.jpg",
       "heroUrl": "https://github.com/roxenzzz/roxenz-library/releases/download/roxenz-lethe-study-bar-stable-1.0.0-b1-1789730873753/hero-6e71994788d2.png",
       "logoUrl": "https://github.com/roxenzzz/roxenz-library/releases/download/roxenz-lethe-study-bar-stable-1.0.0-b1-1789730873753/logo-6e71994788d2.png",
-      "screenshots": []
+      "screenshots": [],
+      "type": "game",
+      "developer": "ROXENZ",
+      "categories": [],
+      "cloudSaveMode": "auto",
+      "cloudSavePaths": [],
+      "achievements": [],
+      "maintenance": {
+        "enabled": true,
+        "message": "Sunucular şu an bakımda",
+        "until": "2026-09-19T09:00:00.000Z"
+      }
     },
     {
       "id": "lethe-study-place",
@@ -95,7 +106,7 @@
   ],
   "platform": "ROXENZ",
   "schema": 1,
-  "updatedAt": "2026-09-19T01:08:06.827Z",
+  "updatedAt": "2026-09-19T01:16:20.711Z",
   "clientRelease": {
     "version": "2.2.3",
     "url": "https://github.com/roxenzzz/roxenz-library/releases/download/roxenz-client-2.2.3-1789779926356/ROXENZ-Setup.exe",
