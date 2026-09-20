@@ -41,6 +41,19 @@
         "message": "",
         "until": "",
         "changedAt": "2026-09-19T16:57:29.613Z"
+      },
+      "android": {
+        "packageName": "com.lethe.studyplace",
+        "versionName": "1.0",
+        "versionCode": 1,
+        "minSdk": 25,
+        "targetSdk": 0,
+        "apkUrl": "https://github.com/roxenzzz/roxenz-library/releases/download/roxenz-lethe-study-bar-android-1.0-vc1-1789906606562/lethe-study-bar-1.0.apk",
+        "sha256": "40b13881b6e88f0130617523631a0252ec2ecd42f589314a1fb0583e3ef5e810",
+        "sizeBytes": 54254173,
+        "publishedAt": "2026-09-20T12:16:46Z",
+        "releaseUrl": "https://github.com/roxenzzz/roxenz-library/releases/tag/roxenz-lethe-study-bar-android-1.0-vc1-1789906606562",
+        "notes": "Lethe Study Place APK"
       }
     },
     {
@@ -119,7 +132,7 @@
   ],
   "platform": "ROXENZ",
   "schema": 2,
-  "updatedAt": "2026-09-20T14:24:49.605Z",
+  "updatedAt": "2026-09-20T14:30:02.589Z",
   "clientRelease": {
     "version": "2.3.7",
     "url": "https://github.com/roxenzzz/roxenz-library/releases/download/roxenz-client-2.3.7-1789914006414/ROXENZ-Setup.exe",
@@ -145,7 +158,7 @@
     "socialUrl": "https://vtwzyhucltxlyccosdvd.supabase.co",
     "socialAnonKey": "sb_publishable_P9xfLicCMn6fNS6kMZQ_mw_gx7jmRTc",
     "socialProtocolVersion": 1,
-    "updatedAt": "2026-09-20T14:24:49.605Z"
+    "updatedAt": "2026-09-20T14:30:02.589Z"
   },
   "socialProtocol": {
     "name": "roxenz-social",
