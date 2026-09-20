@@ -119,22 +119,22 @@
   ],
   "platform": "ROXENZ",
   "schema": 2,
-  "updatedAt": "2026-09-20T14:46:29.402Z",
+  "updatedAt": "2026-09-20T14:51:30.035Z",
   "clientRelease": {
-    "version": "2.3.7",
-    "url": "https://github.com/roxenzzz/roxenz-library/releases/download/roxenz-client-2.3.7-1789914006414/ROXENZ-Setup.exe",
-    "sha256": "e3b28f4169759c8580bb118d0accd41341b0c098b9c361154211f8d450b74297",
-    "sizeBytes": 240514537,
-    "publishedAt": "2026-09-20T14:24:49.231Z",
-    "notes": "2.3.7",
+    "version": "2.3.8",
+    "url": "https://github.com/roxenzzz/roxenz-library/releases/download/roxenz-client-2.3.8-1789915619245/ROXENZ-Setup.exe",
+    "sha256": "41796e76645c91ff19d4b7f2b161827b67a486ef261a362011b592bb3bb5f030",
+    "sizeBytes": 240514523,
+    "publishedAt": "2026-09-20T14:51:29.702Z",
+    "notes": "2.3.8",
     "mandatory": true,
     "forceInstall": true,
     "allowDowngrade": true,
-    "deploymentId": "release-392456366-asset-576941768-1789914006414",
-    "releaseId": 392456366,
-    "assetId": 576941768,
-    "tag": "roxenz-client-2.3.7-1789914006414",
-    "releaseUrl": "https://github.com/roxenzzz/roxenz-library/releases/tag/roxenz-client-2.3.7-1789914006414"
+    "deploymentId": "release-392464325-asset-576985147-1789915619245",
+    "releaseId": 392464325,
+    "assetId": 576985147,
+    "tag": "roxenz-client-2.3.8-1789915619245",
+    "releaseUrl": "https://github.com/roxenzzz/roxenz-library/releases/tag/roxenz-client-2.3.8-1789915619245"
   },
   "publicClientConfig": {
     "schema": 2,
@@ -145,7 +145,7 @@
     "socialUrl": "https://vtwzyhucltxlyccosdvd.supabase.co",
     "socialAnonKey": "sb_publishable_P9xfLicCMn6fNS6kMZQ_mw_gx7jmRTc",
     "socialProtocolVersion": 1,
-    "updatedAt": "2026-09-20T14:46:29.401Z"
+    "updatedAt": "2026-09-20T14:51:30.035Z"
   },
   "socialProtocol": {
     "name": "roxenz-social",
