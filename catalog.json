@@ -118,8 +118,8 @@
     }
   ],
   "platform": "ROXENZ",
-  "schema": 1,
-  "updatedAt": "2026-09-20T09:04:34.053Z",
+  "schema": 2,
+  "updatedAt": "2026-09-20T10:58:32.571Z",
   "clientRelease": {
     "version": "2.3.2",
     "url": "https://github.com/roxenzzz/roxenz-library/releases/download/roxenz-client-2.3.2-1789894808741/ROXENZ-Setup.exe",
@@ -135,5 +135,12 @@
     "assetId": 576485242,
     "tag": "roxenz-client-2.3.2-1789894808741",
     "releaseUrl": "https://github.com/roxenzzz/roxenz-library/releases/tag/roxenz-client-2.3.2-1789894808741"
+  },
+  "publicClientConfig": {
+    "schema": 1,
+    "catalogUrl": "https://raw.githubusercontent.com/roxenzzz/roxenz-library/main/catalog.json",
+    "socialUrl": "https://vtwzyhucltxlyccosdvd.supabase.co",
+    "socialAnonKey": "sb_publishable_P9xfLicCMn6fNS6kMZQ_mw_gx7jmRTc",
+    "updatedAt": "2026-09-20T10:58:32.571Z"
   }
 }
