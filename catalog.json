@@ -83,6 +83,19 @@
         "message": "",
         "until": "",
         "changedAt": "2026-09-19T22:23:55.230Z"
+      },
+      "android": {
+        "packageName": "com.lethe.studyplace",
+        "versionName": "1.0",
+        "versionCode": 1,
+        "minSdk": 25,
+        "targetSdk": 36,
+        "apkUrl": "https://github.com/roxenzzz/roxenz-library/releases/download/roxenz-lethe-study-place-android-1.0-vc1-1789906718105/lethe-study-place-1.0.apk",
+        "sha256": "40b13881b6e88f0130617523631a0252ec2ecd42f589314a1fb0583e3ef5e810",
+        "sizeBytes": 54254173,
+        "publishedAt": "2026-09-20T12:19:59.042Z",
+        "releaseUrl": "https://github.com/roxenzzz/roxenz-library/releases/tag/roxenz-lethe-study-place-android-1.0-vc1-1789906718105",
+        "notes": ""
       }
     },
     {
@@ -119,7 +132,7 @@
   ],
   "platform": "ROXENZ",
   "schema": 2,
-  "updatedAt": "2026-09-20T12:18:21.388Z",
+  "updatedAt": "2026-09-20T12:19:59.352Z",
   "clientRelease": {
     "version": "2.3.5",
     "url": "https://github.com/roxenzzz/roxenz-library/releases/download/roxenz-client-2.3.5-1789905692722/ROXENZ-Setup.exe",
@@ -144,6 +157,6 @@
     "githubBranch": "main",
     "socialUrl": "https://vtwzyhucltxlyccosdvd.supabase.co",
     "socialAnonKey": "sb_publishable_P9xfLicCMn6fNS6kMZQ_mw_gx7jmRTc",
-    "updatedAt": "2026-09-20T12:18:21.388Z"
+    "updatedAt": "2026-09-20T12:19:59.352Z"
   }
 }
