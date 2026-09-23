@@ -133,8 +133,23 @@
   ],
   "platform": "ROXENZ",
   "schema": 2,
-  "updatedAt": "2026-09-22T23:56:41.789Z",
-  "clientRelease": null,
+  "updatedAt": "2026-09-23T00:01:16.435Z",
+  "clientRelease": {
+    "version": "2.4.1",
+    "url": "https://github.com/roxenzzz/roxenz-library/releases/download/roxenz-client-2.4.1-1790121425577/ROXENZ-Setup.exe",
+    "sha256": "5ca8c22dcfa2dc8477cfdc25b668a00d7750adb3bf856f9f8aad2c2064b59dae",
+    "sizeBytes": 198384903,
+    "publishedAt": "2026-09-23T00:01:16.105Z",
+    "notes": "2.4.1",
+    "mandatory": true,
+    "forceInstall": false,
+    "allowDowngrade": false,
+    "deploymentId": "release-394197891-asset-582512312-1790121425577",
+    "releaseId": 394197891,
+    "assetId": 582512312,
+    "tag": "roxenz-client-2.4.1-1790121425577",
+    "releaseUrl": "https://github.com/roxenzzz/roxenz-library/releases/tag/roxenz-client-2.4.1-1790121425577"
+  },
   "publicClientConfig": {
     "schema": 2,
     "catalogUrl": "https://raw.githubusercontent.com/roxenzzz/roxenz-library/main/catalog.json",
@@ -144,7 +159,7 @@
     "socialUrl": "https://vtwzyhucltxlyccosdvd.supabase.co",
     "socialAnonKey": "sb_publishable_P9xfLicCMn6fNS6kMZQ_mw_gx7jmRTc",
     "socialProtocolVersion": 1,
-    "updatedAt": "2026-09-22T23:56:41.789Z"
+    "updatedAt": "2026-09-23T00:01:16.435Z"
   },
   "socialProtocol": {
     "name": "roxenz-social",
