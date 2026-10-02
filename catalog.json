@@ -138,7 +138,7 @@
   ],
   "platform": "ROXENZ",
   "schema": 2,
-  "updatedAt": "2026-10-02T14:59:51.948Z",
+  "updatedAt": "2026-10-02T15:00:46.657Z",
   "clientRelease": {
     "version": "2.4.3",
     "url": "https://github.com/roxenzzz/roxenz-library/releases/download/roxenz-client-2.4.3-1790952956115/ROXENZ-Setup.exe",
@@ -164,11 +164,30 @@
     "socialUrl": "https://vtwzyhucltxlyccosdvd.supabase.co",
     "socialAnonKey": "sb_publishable_P9xfLicCMn6fNS6kMZQ_mw_gx7jmRTc",
     "socialProtocolVersion": 1,
-    "updatedAt": "2026-10-02T14:59:51.948Z"
+    "updatedAt": "2026-10-02T15:00:46.657Z"
   },
   "socialProtocol": {
     "name": "roxenz-social",
     "version": 1,
     "minCompatible": 1
+  },
+  "mobileClientRelease": {
+    "packageName": "com.roxenz.mobile",
+    "versionName": "2.4.3",
+    "versionCode": 243,
+    "minSdk": 26,
+    "targetSdk": 35,
+    "apkUrl": "https://github.com/roxenzzz/roxenz-library/releases/download/roxenz-mobile-client-2.4.3-vc243-1790953240264/ROXENZ-Mobile.apk",
+    "url": "https://github.com/roxenzzz/roxenz-library/releases/download/roxenz-mobile-client-2.4.3-vc243-1790953240264/ROXENZ-Mobile.apk",
+    "sha256": "e639e46a888ffbea2065af4e37408f0dcd1ea0015bc5e416bd0497f1e78986ec",
+    "sizeBytes": 3760316,
+    "publishedAt": "2026-10-02T15:00:46.314Z",
+    "notes": "",
+    "mandatory": true,
+    "deploymentId": "mobile-release-401914364-asset-605843411-1790953240264",
+    "releaseId": 401914364,
+    "assetId": 605843411,
+    "tag": "roxenz-mobile-client-2.4.3-vc243-1790953240264",
+    "releaseUrl": "https://github.com/roxenzzz/roxenz-library/releases/tag/roxenz-mobile-client-2.4.3-vc243-1790953240264"
   }
 }
