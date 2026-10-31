@@ -1,7 +1,7 @@
 {
-  "platform": "ROXENZ",
   "schema": 1,
-  "socialAnonKey": "sb_publishable_P9xfLicCMn6fNS6kMZQ_mw_gx7jmRTc",
+  "platform": "ROXENZ",
+  "updatedAt": "2026-10-31T09:53:10.502Z",
   "socialUrl": "https://vtwzyhucltxlyccosdvd.supabase.co",
-  "updatedAt": "2026-10-31T09:50:27.9898991Z"
+  "socialAnonKey": "sb_publishable_P9xfLicCMn6fNS6kMZQ_mw_gx7jmRTc"
 }
