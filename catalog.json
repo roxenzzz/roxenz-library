@@ -138,16 +138,16 @@
   ],
   "platform": "ROXENZ",
   "schema": 1,
-  "updatedAt": "2026-10-31T02:24:07.315Z",
+  "updatedAt": "2026-10-31T09:53:09.335Z",
   "clientRelease": {
-    "version": "2.4.5",
-    "url": "https://github.com/roxenzzz/roxenz-library/releases/download/roxenz-client-2.4.5-1793413358765/ROXENZ-Setup.exe",
-    "sha256": "c6f0cd4bddb71ab743233a62969980323d4251cf0992efe0b981945699c510ba",
-    "sizeBytes": 146060689,
-    "publishedAt": "2026-10-31T02:24:06.966Z",
-    "notes": "2.4.5",
+    "version": "2.4.6",
+    "url": "https://github.com/roxenzzz/roxenz-library/releases/download/roxenz-client-2.4.6-1793440298393/ROXENZ-Setup.exe",
+    "sha256": "f2953f81864c00bbbbeedf84ba40afaab0294f771768f86d2de4d1264bada9fa",
+    "sizeBytes": 146063083,
+    "publishedAt": "2026-10-31T09:53:08.957Z",
+    "notes": "2.4.6",
     "mandatory": true,
-    "releaseUrl": "https://github.com/roxenzzz/roxenz-library/releases/tag/roxenz-client-2.4.5-1793413358765"
+    "releaseUrl": "https://github.com/roxenzzz/roxenz-library/releases/tag/roxenz-client-2.4.6-1793440298393"
   },
   "publicClientConfig": {
     "socialUrl": "https://vtwzyhucltxlyccosdvd.supabase.co",
